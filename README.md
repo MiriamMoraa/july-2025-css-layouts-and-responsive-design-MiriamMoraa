@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Weather Central - Your Complete Weather Dashboard</title>
-    <link rel="stylesheet" href="style.css">
+     <link rel="stylesheet" href="styles2.css">
 </head>
 <body>
     <!-- Header Section -->
@@ -380,6 +380,8 @@
             </div>
         </div>
     </footer>
+</body>
+</html>
 
     <style>
 /* CSS Reset and Base Styles */
